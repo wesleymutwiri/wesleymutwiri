@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wesleymutwiri&show_icons=true&locale=en" alt="wesleymutwiri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wesleymutwiri&" alt="wesleymutwiri" /></p>
+<a href="https://wakatime.com/@54a297c8-6d69-42fb-8766-597e52d0a0d6"><img src="https://wakatime.com/badge/user/54a297c8-6d69-42fb-8766-597e52d0a0d6.svg" alt="Total time coded since Apr 25 2018" /></a>
