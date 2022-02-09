@@ -1,7 +1,7 @@
 <h1 align="center">Whale Hello There 👋, I'm Wesley Mochiemo</h1>
 <h3 align="center">A passionate software engineer from Nairobi Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleymutwiri&label=Profile%20views&color=0e75b6&style=flat" alt="wesleymutwiri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleymutwiri&label=Profile%20views&color=0e75b6&style=flat" alt="wesleymutwiri" /> <a href="https://wakatime.com/@54a297c8-6d69-42fb-8766-597e52d0a0d6"><img src="https://wakatime.com/badge/user/54a297c8-6d69-42fb-8766-597e52d0a0d6.svg" alt="Total time coded since Apr 25 2018" /></a></p> 
 
 - 📝 I regularly write articles on [https://wesleyblog.netlify.app/](https://wesleyblog.netlify.app/)
 
@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wesleymutwiri&show_icons=true&locale=en" alt="wesleymutwiri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wesleymutwiri&" alt="wesleymutwiri" /></p>
-<a href="https://wakatime.com/@54a297c8-6d69-42fb-8766-597e52d0a0d6"><img src="https://wakatime.com/badge/user/54a297c8-6d69-42fb-8766-597e52d0a0d6.svg" alt="Total time coded since Apr 25 2018" /></a>
