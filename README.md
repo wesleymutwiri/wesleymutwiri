@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **wesleymochiemo@gmail.com**
 
-- ⚡ Fun fact **I can cook minute rice in 58 seconds**
+- ⚡ Fun fact **I can cook one minute rice in 58 seconds**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
